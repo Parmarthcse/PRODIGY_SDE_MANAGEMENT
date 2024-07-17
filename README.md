@@ -1,4 +1,5 @@
-Contact Management System in Java
+<h1>PRODIGY_SD__Contact_Management-03
+</h1>
 
 The Contact Management System is a Java program designed to handle the management of contacts efficiently. It provides functionalities for adding, viewing, managing, and deleting contacts. Below are the key features and their descriptions:
 
@@ -19,3 +20,6 @@ Delete Contact:
 
 Enables users to remove contacts from the system.
 Users can select and delete unwanted contacts, ensuring the contact list remains up-to-date.
+
+
+ <img align="right mt-5 mb-4 min-height:20vh justify-space-between" alt="" width="400" src="https://cdn.dribbble.com/users/409459/screenshots/2286694/cwc.gif">
