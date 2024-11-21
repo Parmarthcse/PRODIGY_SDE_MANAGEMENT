@@ -1,4 +1,4 @@
-<h1>PRODIGY_SD__Contact_Management-03
+<h1>PRODIGY_SDE_Management
 </h1>
 
 The Contact Management System is a Java program designed to handle the management of contacts efficiently. It provides functionalities for adding, viewing, managing, and deleting contacts. Below are the key features and their descriptions:
